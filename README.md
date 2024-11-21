@@ -103,7 +103,8 @@ After this you can see the window like below
 
 ### Fig 2: Invoke the Cadence Environment!
 
-![Screenshot (1)](https://github.com/user-attachments/assets/660050c2-e24a-4c2a-8be2-db31e0ad1438)
+![Screenshot (1)](https://github.com/user-attachments/assets/31d7f892-eebc-4a9d-b4c4-4fa0c677aca7)
+
 
 
 To Launch Simulation tool 
