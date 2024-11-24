@@ -103,7 +103,8 @@ After this you can see the window like below
 
 ### Fig 2: Invoke the Cadence Environment!
 
-![Screenshot (1)](https://github.com/user-attachments/assets/31d7f892-eebc-4a9d-b4c4-4fa0c677aca7)
+![Screenshot 2024-11-24 153436](https://github.com/user-attachments/assets/158767bb-fa00-4c8f-b2fb-4c2925bb9024)
+
 
 
 
@@ -127,7 +128,9 @@ Select Multiple Step and then select “Create cds.lib File” as shown in below
 Click the cds.lib file and save the file by clicking on Save option 
 
 ### Fig 4:cds.lib file Creation!
-![Screenshot (1)](https://github.com/user-attachments/assets/12818938-ab1e-4144-8a7e-aade3d6325fb)
+![Screenshot 2024-11-24 153436](https://github.com/user-attachments/assets/8430382b-1268-4f3b-8c1c-19110a0e257d)
+
+
 
 
 
@@ -143,7 +146,7 @@ A Click “OK” in the “nclaunch: Open Design Directory” window as shown in
 
 ### Fig 5: Selection of Don’t include any libraries
 
-![Screenshot (3)](https://github.com/user-attachments/assets/fafd9bf9-c4f4-455c-a39e-a59680b0ec39)
+![Screenshot 2024-11-24 153447](https://github.com/user-attachments/assets/8aa981dc-a373-4c08-b907-07facba37aa5)
 
 
 A ‘NCLaunch window’ appears as shown in figure below
@@ -155,7 +158,8 @@ Worklib is the directory where all the compiled codes are stored while Snapshot 
 To perform the function simulation, the following three steps are involved Compilation, Elaboration and Simulation. 
 
 ### Fig 6: Nclaunch Window
-![Screenshot (4)](https://github.com/user-attachments/assets/1e4b2b31-54b6-4413-a9c0-5ba1c3fa99ab)
+![Screenshot 2024-11-24 153503](https://github.com/user-attachments/assets/39f7d585-4423-4314-8135-a097c357cc06)
+
 
 
 ## Step 1: Compilation:
@@ -180,7 +184,8 @@ Left side select the file and in Tools : launch verilog compiler with current se
 
 Worklib is the directory where all the compiled codes are stored while Snapshot will have output of elaboration which in turn goes for simulation 
 
-![Screenshot (6)](https://github.com/user-attachments/assets/a44b2527-e333-477c-82e6-8e9632feab1b)
+![Screenshot 2024-11-24 153557](https://github.com/user-attachments/assets/8a4d5c76-bfa8-46f5-8d7e-335fa88a6487)
+
 
 
 ### Fig 7: Compiled database in worklib
@@ -217,7 +222,7 @@ Outputs: Elaborate database updated in mapped library if successful, generates r
 5.It also establishes net connectivity and prepares all of this for simulation
 
 After elaboration the file will come under snapshot. Select the test bench and simulate it.
-![Screenshot (7)](https://github.com/user-attachments/assets/978226f7-ee42-40f3-aa30-d1f904d052c8)
+![Screenshot 2024-11-24 153623](https://github.com/user-attachments/assets/91469ee0-8bd8-4954-a573-932bc6b8e9fe)
 
 
 
